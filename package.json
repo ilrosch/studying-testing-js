@@ -1,0 +1,15 @@
+{
+  "name": "studying-testing",
+  "version": "1.0.0",
+  "description": "Learning to test code in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
